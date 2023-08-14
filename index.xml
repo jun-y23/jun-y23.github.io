@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://jun-y23.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Mon, 14 Aug 2023 15:34:56 +0900</lastBuildDate><atom:link href="https://jun-y23.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Go Pointer</title>
+      <link>https://jun-y23.github.io/post/go-pointer/</link>
+      <pubDate>Mon, 14 Aug 2023 15:34:56 +0900</pubDate>
+      
+      <guid>https://jun-y23.github.io/post/go-pointer/</guid>
+      <description>What is Go pointer var i *i return &amp;amp;i </description>
+    </item>
+    
+  </channel>
+</rss>
