@@ -9,12 +9,12 @@
     <updated>Mon, 14 Aug 2023 22:14:17 JST</updated>
     
     <item>
-      <title>Go Pointer</title>
+      <title>Goのポインタを理解する</title>
       <link>https://jun-y23.github.io/post/go-pointer/</link>
       <pubDate>Mon, 14 Aug 2023 22:14:17 JST</pubDate>
       
       <guid>https://jun-y23.github.io/post/go-pointer/</guid>
-      <description>Goのポインタを理解する </description>
+      <description>ポインタとは var s *string return &amp;amp;s </description>
     </item>
     
   </channel>
