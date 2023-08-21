@@ -9,6 +9,37 @@
     <updated>Mon, 14 Aug 2023 22:14:17 JST</updated>
     
     <item>
+      <title>About</title>
+      <link>https://jun-y23.github.io/about/</link>
+      <pubDate>Mon, 21 Aug 2023 21:22:25 JST</pubDate>
+      
+      <guid>https://jun-y23.github.io/about/</guid>
+      <description>Personal Info 項目 内容 名前 山口惇 生年月 1995年5月 居住地 大阪府 最終学歴 神戸市外国語大学 外国語学部 英米学科 Experiences 株式会社Arch 【雇用形態】
+正社員
+【在籍期間】
+2023/04 ~ 現在
+【チーム編成】
+エンジニア 5人 フロントエンド 2人 バックエンド 3人 【言語、フレームワーク】
+フロントエンド TypeScript React バックエンド Go echo 【インフラ】
+AWS 【ツール】
+Docker・GitHub・GitHub Actions・Notion
+Papyrus Gmbh 【雇用形態】
+正社員
+【在籍期間】
+2022/07 ~ 2023/02
+【チーム編成】
+エンジニア 3人 フロントエンド 1人 バックエンド 2人 【言語、フレームワーク】
+PHP7 【ツール】
+Docker・GitLab・Redmine
+株式会社ハート・オーガナイゼーション 【雇用形態】
+正社員
+【在籍期間】
+2020/02 ~ 2021/11
+【チーム編成】
+CTO 1人 エンジニア 5人 【言語、フレームワーク】</description>
+    </item>
+    
+    <item>
       <title>Goのポインタを理解する</title>
       <link>https://jun-y23.github.io/post/go-pointer/</link>
       <pubDate>Mon, 14 Aug 2023 22:14:17 JST</pubDate>
