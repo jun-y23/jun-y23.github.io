@@ -21,17 +21,13 @@
       "before": true,
       "after": true
     },
-    "ja-space-between-half-and-full-width": {
-      "space": "always",
-      "lintStyledNode": true
-    },
     "ja-unnatural-alphabet": true,
     "max-comma": {
       "max" : 4
     },
     "max-kanji-continuous-len": {
       "max": 6,
-      "allow": ["普通自動車第一種運転免許"]
+      "allow": ["普通自動車第一種運転免許", "株式会社塚谷刃物製作所"]
     },
     "max-ten": true,
     "no-doubled-conjunction": true,
